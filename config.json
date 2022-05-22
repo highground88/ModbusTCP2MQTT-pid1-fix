@@ -1,6 +1,6 @@
 {
   "name": "ModbusTCP2MQTT",
-  "version": "0.2.2.1b",
+  "version": "0.2.2.1",
   "slug": "modbus_inverter",
   "init": false,
   "description": "Sungrow-SMA Solar inverter communication Addon",
